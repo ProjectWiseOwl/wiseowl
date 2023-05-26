@@ -12,4 +12,4 @@ Expected release date: 10 June 2023
 
 - [Yatha Grover](https://github.com/YATHAGROVER)
 
-- [Anshumaan Payasi](https://github.com/Anshumaniacc)
+- [Anshuman Payasi](https://github.com/Anshumaniacc)
