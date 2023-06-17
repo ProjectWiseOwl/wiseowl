@@ -2,7 +2,7 @@
 
 WiseOwl Project is initiated by the developers of The WiseOwl Inc. and will be released once the framework is developed. 
 
-Expected release date: 10 June 2023 
+Expected release date: 10 August 2023 
 
 ## Developers
 
